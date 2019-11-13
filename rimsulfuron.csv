@@ -1,0 +1,65 @@
+﻿Herbicide,Plot,Code,Block,Box,WeedCover,Yield
+Rimsulfuron (40),1,1,1,1,27.8,85.91
+Rimsulfuron (45),2,2,1,1,27.8,93.03
+Rimsulfuron (50),3,3,1,1,23,86.93
+Rimsulfuron (60),4,4,1,1,42.8,52.99
+Rimsulfuron (50+30 split),5,5,1,2,15.1,71.36
+Rimsulfuron + thyfensulfuron,6,6,1,2,22.9,75.28
+Rimsulfuron + hoeing,7,7,1,2,17.7,73.22
+Pendimethalin (pre) + rimsulfuron (post),8,8,1,2,10.2,65.51
+Pendimethalin (post) + rimsuulfuron (post),9,9,1,1,5.4,94.82
+Rimsulfuron + Atred,10,10,1,1,40.3,94.11
+Thifensulfuron,11,11,1,1,67.9,78.47
+Metolachlor + terbuthylazine (pre),12,12,1,1,62.6,51.77
+Alachlor + terbuthylazine,13,13,1,2,130.3,12.06
+Hand-Weeded,14,14,1,2,17.5,77.58
+Unweeded 1,15,15,1,2,165,10.88
+Unweeded 2,16,16,1,2,140.2,27.58
+Rimsulfuron (50+30 split),17,5,2,1,17.8,77.57
+Rimsulfuron + hoeing,18,7,2,1,5.2,86.06
+Rimsulfuron + thyfensulfuron,19,6,2,1,22.8,82.59
+Pendimethalin (pre) + rimsulfuron (post),20,8,2,1,5.3,88.72
+Rimsulfuron (40),21,1,2,2,42.8,91.09
+Rimsulfuron (60),22,4,2,2,5.3,102.86
+Rimsulfuron (50),23,3,2,2,42.8,105.82
+Rimsulfuron (45),24,2,2,2,27.8,105.00
+Unweeded 2,25,16,2,1,122.6,51.55
+Alachlor + terbuthylazine,26,13,2,1,105.5,49.58
+Hand-Weeded,27,14,2,1,37.5,92.08
+Unweeded 1,28,15,2,1,115.1,31.77
+Thifensulfuron,29,11,2,2,88.1,42.32
+Rimsulfuron + Atred,30,10,2,2,42.6,89.86
+Pendimethalin (post) + rimsuulfuron (post),31,9,2,2,10,87.72
+Metolachlor + terbuthylazine (pre),32,12,2,2,87.7,52.10
+Rimsulfuron (45),33,2,3,3,35,89.19
+Rimsulfuron (60),34,4,3,3,45.3,100.62
+Rimsulfuron (40),35,1,3,3,40.2,111.42
+Rimsulfuron (50),36,3,3,3,40.3,110.02
+Rimsulfuron + thyfensulfuron,37,6,3,4,42.9,94.96
+Rimsulfuron + hoeing,38,7,3,4,17.7,118.01
+Pendimethalin (pre) + rimsulfuron (post),39,8,3,4,17.7,95.52
+Rimsulfuron (50+30 split),40,5,3,4,22.7,115.91
+Rimsulfuron + Atred,41,10,3,3,60.2,104.34
+Metolachlor + terbuthylazine (pre),42,12,3,3,62.5,49.46
+Pendimethalin (post) + rimsuulfuron (post),43,9,3,3,45,102.05
+Thifensulfuron,44,11,3,3,93,62.52
+Hand-Weeded,45,14,3,4,37.5,86.59
+Unweeded 1,46,15,3,4,145.2,23.92
+Unweeded 2,47,16,3,4,142.7,25.13
+Alachlor + terbuthylazine,48,13,3,4,105.4,41.34
+Rimsulfuron + thyfensulfuron,49,6,4,3,38,85.85
+Pendimethalin (pre) + rimsulfuron (post),50,8,4,3,17.6,82.39
+Rimsulfuron (50+30 split),51,5,4,3,20.2,92.16
+Rimsulfuron + hoeing,52,7,4,3,5.2,98.32
+Rimsulfuron (50),53,3,4,4,45.2,89.10
+Rimsulfuron (45),54,2,4,4,35.4,79.04
+Rimsulfuron (60),55,4,4,4,50.1,97.04
+Rimsulfuron (40),56,1,4,4,60.2,93.15
+Alachlor + terbuthylazine,57,13,4,3,80.3,16.37
+Hand-Weeded,58,14,4,3,17.5,99.63
+Unweeded 1,59,15,4,3,110.3,20.85
+Unweeded 2,60,16,4,3,140.6,38.61
+Pendimethalin (post) + rimsuulfuron (post),61,9,4,4,35.1,101.94
+Metolachlor + terbuthylazine (pre),62,12,4,4,62.5,34.67
+Rimsulfuron + Atred,63,10,4,4,35.1,99.63
+Thifensulfuron,64,11,4,4,102.6,24.34
