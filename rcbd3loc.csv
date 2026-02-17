@@ -1,0 +1,25 @@
+"Location","Herbicide","Block","Efficacy (%)"
+"PAPIANO","Metolachlor",1,90
+"PAPIANO","Metolachlor",2,88
+"PAPIANO","Metolachlor",3,89
+"PAPIANO","Metolachlor",4,91
+"PAPIANO","Flufenacet",1,92
+"PAPIANO","Flufenacet",2,94
+"PAPIANO","Flufenacet",3,95
+"PAPIANO","Flufenacet",4,96
+"PISTRINO","Metolachlor",1,97
+"PISTRINO","Metolachlor",2,91
+"PISTRINO","Metolachlor",3,86
+"PISTRINO","Metolachlor",4,87
+"PISTRINO","Flufenacet",1,85
+"PISTRINO","Flufenacet",2,87
+"PISTRINO","Flufenacet",3,88
+"PISTRINO","Flufenacet",4,91
+"S.APOLLINARE","Metolachlor",1,95
+"S.APOLLINARE","Metolachlor",2,96
+"S.APOLLINARE","Metolachlor",3,97
+"S.APOLLINARE","Metolachlor",4,95
+"S.APOLLINARE","Flufenacet",1,94
+"S.APOLLINARE","Flufenacet",2,91
+"S.APOLLINARE","Flufenacet",3,93
+"S.APOLLINARE","Flufenacet",4,95
